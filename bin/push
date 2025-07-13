@@ -1,0 +1,10 @@
+#！/usr/bin/env sh
+
+git add -A .
+git commit -m 'commit'
+
+git remote add origin git@github.com:sezryo/yoyogi.git
+git branch -M main
+git push -f origin main
+
+cd -
