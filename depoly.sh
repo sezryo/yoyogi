@@ -6,7 +6,6 @@ forester build forest.toml
 
 cd output
 
-git init
 git add -A .
 git commit -m 'deploy'
 
