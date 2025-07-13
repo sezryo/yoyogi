@@ -1,9 +1,12 @@
-\title{Yiq-wê Mân}
+\title{Yiq-wê Mân (Yiwei Meng)}
 \taxon{Person}
 \meta{external}{https://sez.moe/}
 \meta{institution}{Imperial College London}
 \meta{orcid}{0009-0008-0934-6821}
-\meta{pronouns}{they/them}
-\meta{other_names}{Yiwei Meng, Yvette, Yvelines}
+\meta{position}{they/them}
 
-\p{I am a postgrauduate student studying Mathematics and Finance in Imperial College. I am an alumni of University of Cambridge as a Mathmo from 2022 to 2025.}
+\p{I am a \em{postgrauduate student studying Mathematics and Finance} in Imperial College. I am a \em{Quantitative Research Intern} in J.P. Morgan. I am also an \em{alumni} of University of Cambridge as a \em{[Mathmo](https://archive.thetab.com/uk/cambridge/2017/02/16/what-actually-date-mathmo-89152)} from 2022 to 2025.}
+\p{My primary research interest focuses on stochastic analysis and its applications. In particular, I'm working on geometric aspects of stochastic differential equations defined on Banach-valued r.v.s., in which financial implications arise.}
+\p{I'm also interested in formalising functional analytical concepts in the shed of category theory, this attempt can be found in my [note](cat-ana-0001) here.}
+\p{Unprofessionally, I'm a linguistic enthusiast, and you may find my flaky thoughts here.}
+\p{You may access my [Curriculum Vitæ](0005) here. For contacts otherwise, please send email to \code{echo golf oscar at *this domain*}. Additionally, I maintain multiple social platform accounts under the same name as the [tree address](https://www.forester-notes.org/0073/index.xml) of this page.}

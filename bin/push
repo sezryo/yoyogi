@@ -1,5 +1,7 @@
 #！/usr/bin/env sh
 
+cd ~/yoyogi
+
 git add -A .
 git commit -m 'commit'
 

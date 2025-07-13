@@ -1,0 +1,7 @@
+#！/usr/bin/env sh
+
+cd ~/yoyogi
+
+forester build forest.toml
+
+python3 -m http.server 8964 -d output

@@ -2,8 +2,8 @@
 
 set -e
 
-echo "use flake" >> .envrc
-echo "PATH_add bin" >> .envrc
+echo "use flake" > .envrc
+echo "PATH_add ./bin" >> .envrc
 direnv allow # Install direnv or nix-direnv first
 
 git init

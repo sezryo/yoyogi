@@ -1,11 +1,14 @@
 #！/usr/bin/env sh
 
+cd ~/yoyogi
+
 forester build forest.toml
 
 cd output
 
+echo "sez.moe" > CNAME
+
 git init
-git config user.signingkey 0xE1D631009F9086E1
 git add -A .
 git commit -m 'deploy'
 

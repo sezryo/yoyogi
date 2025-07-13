@@ -1,8 +1,10 @@
-\title{Hello, World!}
-\p{Welcome to your first tree! This tree is the root of your forest.}
-\ul{
-  \li{[Build and view your forest for the first time](https://www.forester-notes.org/jms-007D/)}
-  \li{[Overview of the Forester markup language](https://www.forester-notes.org/jms-007N/)}
-  \li{[Creating new trees](https://www.forester-notes.org/jms-007H/)}
-  \li{[Creating your personal biographical tree](https://www.forester-notes.org/jms-007K/)}
-}
+\title{ヨよ木 (Yoyogi)}
+\author{sezryo}
+\meta{orcid}{0009-0008-0934-6821}
+\p{I am Yiq-wê Mân. I am also referred to as Yiwei or Yvette. This is my personal website, realised as a [forester space](https://www.forester-notes.org/index/index.xml). More detailed information of me can be found in my [bio](sezryo).}
+\p{This website primarily serves as a research note of my current studies. Additionally, my random thoughts are also posted here, making part of this website to be a casual blog.}
+\p{You may navigate this whole forester via \code{ctrl+K}.}
+
+\transclude{0001}
+
+\p{You may find contents in the following [trees](https://www.forester-notes.org/tfmt-000R/index.xml): [Notes](0002), [Articles](0003), [Thoughts](0004), and my [Bio](sezryo).}
