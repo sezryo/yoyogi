@@ -1,2 +1,4 @@
 output/
 deploy.sh
+push.sh
+.gitignore
