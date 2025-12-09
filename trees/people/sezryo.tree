@@ -1,12 +1,14 @@
-\title{Yiq-wê Mân (Yiwei Meng)}
+\title{Yiq-wê Mordžele (Yiwei Meng)}
 \taxon{Person}
 \meta{external}{https://sez.moe/}
 \meta{institution}{Imperial College London}
 \meta{orcid}{0009-0008-0934-6821}
 \meta{position}{they/them}
 
-\p{I am a \em{postgrauduate student studying Mathematics and Finance} in Imperial College. I am a \em{Quantitative Research Intern} in J.P. Morgan. I am also an \em{alumni} of University of Cambridge as a \em{[Mathmo](https://archive.thetab.com/uk/cambridge/2017/02/16/what-actually-date-mathmo-89152)} from 2022 to 2025.}
-\p{My primary research interest focuses on stochastic analysis and its applications. In particular, I'm working on geometric aspects of stochastic differential equations defined on Banach-valued r.v.s., in which financial implications arise.}
-\p{I'm also interested in formalising functional analytical concepts in the shed of category theory, this attempt can be found in my [note](cat-ana-0001) here.}
-\p{Unprofessionally, I'm a linguistic enthusiast, and you may find my flaky thoughts here.}
-\p{You may access my [Curriculum Vitæ](0005) here. For contacts otherwise, please send email to \code{echo golf oscar at *this domain*}. Additionally, I maintain multiple social platform accounts under the same name as the [tree address](https://www.forester-notes.org/0073/index.xml) of this page.}
+\p{I'm a \em{postgrauduate student studying Mathematics and Finance} in Imperial College. I'm an \em{alumni} of [University of Cambridge](thoughts-emo-0001) as a \em{[Mathmo](https://archive.thetab.com/uk/cambridge/2017/02/16/what-actually-date-mathmo-89152)} from 2022 to 2025.}
+\p{My primary research interest focuses on algebraic aspects in stochastic analysis. You may find more information on the [research](0008) page. Currently, I focus on diagrammic implementations of stochastic and quantum processes, via Markov categories. Another topic I'm studying is Hopf algebra methods in branched rough paths, trying to use signature method in formalising continuous processes theories in categories.}
+\p{I was supervised by [Simon Wadsley](https://www.dpmms.cam.ac.uk/~sjw47/), [Anthony Ashton](https://www.homerton.cam.ac.uk/people/anthony-ashton) and [Martin Hyland](https://www.dpmms.cam.ac.uk/person/jmeh1), and worked on researches generalising semantical correspondences of commutative submonads in ambient categories. I'm currently supervised by [Thomas Cass](https://profiles.imperial.ac.uk/thomas.cass), who provides me insights in Rough Path Theory.}
+\p{Less professionally, I'm a linguistic enthusiast, and you may find my fragmental thoughts here.}
+\p{I'm a member of [UK Liberal Democrats](https://www.libdems.org.uk/)}
+\transclude{0006}
+\transclude{0007}
