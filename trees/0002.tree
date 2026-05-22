@@ -1,6 +1,11 @@
 \title{Notes}
+\author{sezryo}
 \p{Here assembles the collection of my typed notes. Most of them are partial and incomplete, unless otherwise noted.}
 \p{These notes mainly serves for my own researching and studying purposes. Nevertheless, I'm more than happy to see if any of them inspires anyone.}
-\transclude{cat-fun-0001}
-\transclude{cat-ana-0001}
-\transclude{jap-bun-0001}
+\scope{
+  \put\transclude/expanded{false}
+  \transclude{000G}
+  \transclude{000C}
+  \transclude{000H}
+  \transclude{000I}
+}

@@ -1,11 +1,22 @@
 \title{ヨよ木 (Yoyogi)}
 \author{sezryo}
 \meta{orcid}{0009-0008-0934-6821}
-\p{I am Yve Meng. This is my personal website, realised as a [forester space](https://www.forester-notes.org/index/index.xml). You can find more information about me in my [bio](sezryo), or directly [contact me](0006) for even further discussions.}
-\p{This website primarily serves as a research [note](0002) of my current studies. Additionally, my random thoughts are also posted here, making part of this website to be a casual blog.}
-\p{Pages of this site may be written in multiple or mixed languages.}
+\p{I am Yve Meng. This is my personal website, realised as a [forester space](https://www.forester-notes.org/index/index.xml).}
+\p{I am a \em{Quantitative Researcher} in [Mediobanca](https://www.mediobanca.com/en/index.html) in London. I am also a \em{Research Assistant} in [Thalesians](https://thalesians.com/). I hold degrees from Cambridge and Imperial.}
+\p{I study foundations of stochastic analysis using category theory, game theory and differential geometry as a guide. My other interests include linguistics, programming languages, molecular anthropology and electoral system researches. Outside professional realms, I am also interested in mathematical music theory, rhythm game designs, composing, arranging and DJ-ing.}
+\p{You may find more information about me in my [bio](sezryo), or directly [contact me](0006) for further discussions.}
 \p{You may navigate this whole [forester](https://www.forester-notes.org/index/index.xml) via \code{ctrl+K}.}
 
-\transclude{0001}
+\scope{
+  \put\transclude/numbered{false}
+  \transclude{0001}
+}
 
-\p{You may find contents in the following [trees](https://www.forester-notes.org/tfmt-000R/index.xml): [notes](0002), [articles](0003), [thoughts](0004), and my [bio](sezryo).}
+\scope{
+  \put\transclude/numbered{true}
+  \put\transclude/expanded{false}
+
+  \transclude{0003}
+  \transclude{0008}
+  \transclude{0002}
+}
