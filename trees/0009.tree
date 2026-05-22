@@ -1,0 +1,3 @@
+\title{Markov Category}
+\p{Markov category is a framework interpreting probability effects using \em{copy-discard categories}. Intuitively, a Markov category is a category where morphisms behave like “random functions”. This novel approach enables one to reason stocastic processes via string diagrams, similar to a relatively mature diagrammic intepretation on [quantum processes](000C). A short yet clear survey can be found [here](https://ncatlab.org/nlab/show/Markov+category).}
+\p{I have written a set of note on Markov categories, which can be found [here](000D).}
